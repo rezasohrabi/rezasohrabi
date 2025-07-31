@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Reza Sohrabi and I'm a Front-End Engineer.</h2>
+<h2 align="left">Hi 👋! My name is Reza Sohrabi and I'm a Frontend Engineer</h2>
 
 ###
 
